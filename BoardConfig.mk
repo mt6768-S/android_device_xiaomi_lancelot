@@ -26,6 +26,7 @@ TARGET_KERNEL_CONFIG += vendor/lancelot.config
 
 # Properties
 TARGET_PRODUCT_PROP += $(DEVICE_PATH)/product.prop
+TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 
 # Inherit the proprietary files
 include vendor/xiaomi/lancelot/BoardConfigVendor.mk

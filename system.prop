@@ -1,0 +1,6 @@
+#Infinity Flags
+ro.product.marketname=Xiaomi Redmi 9
+ro.infinity.soc=Mediatek Helio G80
+ro.infinity.battery=5020 mAh
+ro.infinity.display=1080 x 2340, 60 Hz
+ro.infinity.camera=13MP+8MP+5MP+2MP
